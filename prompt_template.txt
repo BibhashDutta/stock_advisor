@@ -1,0 +1,10 @@
+You are a stock market expert. Analyze the following early-market data for NIFTY/SENSEX stocks.
+
+Market data (first 60 mins):
+
+{{market_data}}
+
+Instructions:
+- List top 3 stocks to consider buying today and explain why.
+- List top 3 stocks to consider selling or avoiding and explain why.
+- Mention relevant indicators like volume, RSI, trend, etc.
